@@ -1,21 +1,20 @@
 {
     "events": [
         {
-            "date": [
-                "2023-07-02"
-            ],
-            "start_time": [
-                "15:00"
-            ],
-            "end_time": [
-                "16:00"
-            ],
-            "event": [
-                "Masterclass with Julian"
-            ],
-            "location": [],
-            "event_details": [],
-            "reminder": []
+            "date": "2024-07-21",
+            "event": "Meeting with Alex",
+            "start_time": "19:00",
+            "end_time": "20:00",
+            "location": "Google Meet",
+            "reminder": "00:15"
+        },
+        {
+            "date": "2024-07-28",
+            "event": "Meeting with Adam",
+            "start_time": "15:00",
+            "end_time": "16:00",
+            "location": "Google Meet",
+            "reminder": "00:10"
         }
     ]
 }
